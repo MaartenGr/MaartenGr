@@ -28,6 +28,11 @@
 <a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maartengrootendorst" height="30" width="30" /></a>
 </p>
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=@maartengrootendorst)](https://medium.com/@maartengrootendorst)
+
 
 <!--
 **MaartenGr/MaartenGr** is a ✨ _special_ ✨ repository because its `README.md` 
