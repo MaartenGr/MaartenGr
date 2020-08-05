@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
-<a href="https://www.linkedin.com/in/maartengrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maartengrootendorst/" alt="maartengrootendorst"/></a>
+<a href="https://www.linkedin.com/in/mgrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 <a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
-<a href=https://github.com/MaartenGr/Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MaartenGr/Projects" alt="maartengrootendorst"/></a>
+<a href="https://github.com/MaartenGr/Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MaartenGr/Projects" alt="maartengrootendorst"/></a>
 
 </p>
 
@@ -27,12 +27,7 @@ or writing blog posts to help those starting out AI-world.
 
 ----
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maartengr&show_icons=true" alt=maartengr />
-</p>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maartengr" alt="maartengr" /> </p>
 
 <!--
