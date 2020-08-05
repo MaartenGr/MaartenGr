@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Maarten</h1>
+![](images/header.png)
 
 <p align="center">
-<a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maartengr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mgrootendorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mgrootendorst" height="30" width="30" /></a>
-<a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maartengrootendorst" height="30" width="30" /></a>
+<a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
+<a href="https://www.linkedin.com/in/maartengrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maartengrootendorst/" alt="maartengrootendorst"/></a>
+<a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
+<a href=https://github.com/MaartenGr/Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MaartenGr/Projects" alt="maartengrootendorst"/></a>
+
 </p>
 
-<h3 align="center">A Psychologist turned Data Scientist with a passion for both!</h3>
+I'm a psychologist turned data scientist who is passionate about using artificial
+intelligence to make the world a slightly better place. Typically, I like to 
+work on projects involving machine learning, nlp, reinforcement learning, or 
+any analyses involving human behavior. In my spare time, you will often
+find me working on personal [projects](https://github.com/MaartenGr/Projects) 
+or writing blog posts to help those starting out AI-world.  
 
+----
 
-- 👨‍💻 All of my projects are available at [MaartenGr](https://github.com/MaartenGr/Projects)
-
-- 📝 I regulary write articles on [Medium](https://medium.com/@maartengrootendorst)
-
-### Blogs posts
+#### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Transform your ML-model to Pytorch with Hummingbird](https://towardsdatascience.com/transform-your-ml-model-to-pytorch-with-hummingbird-da49665497e7?source=rss-22405c3b2875------2)
 - [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb?source=rss-22405c3b2875------2)
@@ -21,9 +25,12 @@
 - [How to Detect Bias in AI](https://towardsdatascience.com/how-to-detect-bias-in-ai-872d04ce4efd?source=rss-22405c3b2875------2)
 <!-- BLOG-POST-LIST:END -->
 
+----
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maartengr&show_icons=true" alt=maartengr />
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maartengr" alt="maartengr" /> </p>
