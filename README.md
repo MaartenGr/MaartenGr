@@ -1,4 +1,4 @@
-![](images/header.png)
+![image](https://raw.githubusercontent.com/MaartenGr/MaartenGr/master/images/header.png)
 
 <p align="center">
 <a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
