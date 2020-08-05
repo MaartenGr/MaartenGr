@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Transform your ML-model to Pytorch with Hummingbird](https://towardsdatascience.com/transform-your-ml-model-to-pytorch-with-hummingbird-da49665497e7?source=rss-22405c3b2875------2)
+- [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb?source=rss-22405c3b2875------2)
+- [5 Tips for making the transition from Psychologist to Data Scientist](https://towardsdatascience.com/5-tips-for-making-the-transition-from-psychologist-to-data-scientist-8198fbbbb19e?source=rss-22405c3b2875------2)
+- [How to Detect Bias in AI](https://towardsdatascience.com/how-to-detect-bias-in-ai-872d04ce4efd?source=rss-22405c3b2875------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
