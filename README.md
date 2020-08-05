@@ -13,7 +13,36 @@ intelligence to make the world a slightly better place. Typically, I like to
 work on projects involving machine learning, nlp, reinforcement learning, or 
 any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects](https://github.com/MaartenGr/Projects) 
-or writing blog posts to help those starting out AI-world.  
+or writing blog posts to help those starting out AI-world.
+
+<details>
+<summary>Click for all projects</summary>
+
+* [Vectors of Locally Aggregated Concepts](#vlac)
+* [Creating Artificial Life with Reinforcement Learning](#reinlife)
+* [NLP: Analyzing WhatsApp Messages](#whatsapp)
+* [Board Game Exploration](#boardgame)
+* [Optimizing Emté Routes](#emte)
+* [Pothole Detection](#pothole)
+* [Exploring Explainable ML](#explainable)
+* [Deploying a Machine Learning Model](#deploy)
+* [Retro Games Reinforcement Learning](#reinforcementlearning)
+* [Statistical Cross-Validation Techniques](#crossvalidation)
+* [Cluster Analysis: Creating Customer Segments](#clustering)
+* [Exploring Advanced Feature Engineering Techniques](#featureengineering)
+* [Predicting and Optimizing Auction Prices](#auction)
+* [Statistical Analysis using the Hurdle Model](#hurdle)
+* [Predict and optimize demand](#demand)
+* [Statistically Generated Disney Tournament](#disney)
+* [Analyzing Google Takeout Data](#takeout)
+* [Cars Dashboard](#cars)
+* [Qwixx Visualization](#qwixx)
+* [Academic Journey Visualization](#grades)
+* [Neural Style Transfer](#style)
+* [Predicting Housing Prices](#housing)
+* [Analyzing FitBit Data](#fitbit)
+
+</details>  
 
 ----
 
