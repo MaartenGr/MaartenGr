@@ -17,8 +17,15 @@ or writing blog posts to help those starting out AI-world.
 
 <details>
 <summary>Data Science projects</summary>
-
-* [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) ![nlp][https://img.shields.io/badge/-NLP-red]
+  
+  <!---
+  | Command | Description |
+| --- | --- |
+| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
+| ... | ... |
+  --->
+  
+* [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) 
 * [Creating Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
 * [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
 * [Board Game Exploration](https://github.com/MaartenGr/boardgame)
