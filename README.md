@@ -25,28 +25,30 @@ or writing blog posts to help those starting out AI-world.
 | ... | ... |
   --->
   
-* [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) 
-* [Creating Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
-* [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
-* [Board Game Exploration](https://github.com/MaartenGr/boardgame)
-* [Optimizing Emté Routes](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
-* [Pothole Detection](https://github.com/MaartenGr/PotholeDetection)
-* [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML)
-* [Deploying a Machine Learning Model](https://github.com/MaartenGr/ML-API)
-* [Retro Games Reinforcement Learning](https://github.com/MaartenGr/ReinforcementLearning)
-* [Statistical Cross-Validation Techniques](https://github.com/MaartenGr/validation)
-* [Cluster Analysis: Creating Customer Segments](https://github.com/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb)
-* [Exploring Advanced Feature Engineering Techniques](https://github.com/MaartenGr/feature-engineering)
-* [Predicting and Optimizing Auction Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
-* [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
-* [Predict and optimize demand](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
-* [Statistically Generated Disney Tournament](https://github.com/MaartenGr/DisneyTournament)
-* [Analyzing Google Takeout Data](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
-* [Cars Dashboard](https://github.com/MaartenGr/cars_dashboard)
-* [Qwixx Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb)
-* [Academic Journey Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb)
-* [Predicting Housing Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
-* [Analyzing FitBit Data](https://github.com/MaartenGr/fitbit/)
+| Project | Tags |
+| --- | --- |
+| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [Creating Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Board Game Exploration](https://github.com/MaartenGr/boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Optimizing Emté Routes](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb) | <img src="https://img.shields.io/badge/-ILP-90A4AE"> <img src="https://img.shields.io/badge/-Simmulated%20Annealing-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Pothole Detection](https://github.com/MaartenGr/PotholeDetection) | <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Keras-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML) | <img src="https://img.shields.io/badge/-SHAP-81D4FA"> <img src="https://img.shields.io/badge/-LIME-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Deploying a Machine Learning Model](https://github.com/MaartenGr/ML-API) | <img src="https://img.shields.io/badge/-Docker-90A4AE"> <img src="https://img.shields.io/badge/-FastAPI-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Retro Games Reinforcement Learning](https://github.com/MaartenGr/ReinforcementLearning) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistical Cross-Validation Techniques](https://github.com/MaartenGr/validation) | <img src="https://img.shields.io/badge/-Wilcoxon-grey"> <img src="https://img.shields.io/badge/-McNemar-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Cluster Analysis: Creating Customer Segments](https://github.com/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb) | <img src="https://img.shields.io/badge/-DBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Exploring Advanced Feature Engineering Techniques](https://github.com/MaartenGr/feature-engineering) | <img src="https://img.shields.io/badge/-SMOTE-90A4AE"> <img src="https://img.shields.io/badge/-DFS-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predicting and Optimizing Auction Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | <img src="https://img.shields.io/badge/-LightGBM-81D4FA"> <img src="https://img.shields.io/badge/-Genetic%20Algorithms-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | <img src="https://img.shields.io/badge/-Hurdle-grey"> <img src="https://img.shields.io/badge/-ZINB%20Regression-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predict and optimize demand](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Bayesian%20Optimization-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistically Generated Disney Tournament](https://github.com/MaartenGr/DisneyTournament) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
+| [Analyzing Google Takeout Data](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Cars Dashboard](https://github.com/MaartenGr/cars_dashboard) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Dash-purple">  <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Qwixx Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Academic Journey Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predicting Housing Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Analyzing FitBit Data](https://github.com/MaartenGr/fitbit/) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
 
 </details>  
 
