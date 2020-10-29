@@ -60,10 +60,10 @@ or writing blog posts to help those starting out AI-world.
 
 #### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea?source=rss-22405c3b2875------2)
 - [Creating a class-based TF-IDF with Scikit-Learn](https://towardsdatascience.com/creating-a-class-based-tf-idf-with-scikit-learn-caea7b15b858?source=rss-22405c3b2875------2)
 - [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6?source=rss-22405c3b2875------2)
 - [Why Psychologists can be great Data Scientists](https://towardsdatascience.com/why-psychologists-can-be-great-data-scientists-970552b5223?source=rss-22405c3b2875------2)
-- [Monitoring your Machine Learning Model](https://towardsdatascience.com/monitoring-your-machine-learning-model-6cf98c106e99?source=rss-22405c3b2875------2)
 <!-- BLOG-POST-LIST:END -->
 
 ----
