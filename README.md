@@ -10,10 +10,10 @@
 
 I'm a psychologist turned data scientist who is passionate about using artificial
 intelligence to make the world a slightly better place. Typically, I like to 
-work on projects involving machine learning, nlp, reinforcement learning, or 
+work on projects involving machine learning, nlp or 
 any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects](https://github.com/MaartenGr/Projects) 
-or writing blog posts to help those starting out AI-world.
+or writing [blog posts](http://medium.com/@maartengrootendorst) which typically reside on the intersection of AI and human behavior. 
 
 <details>
 <summary>Data Science projects</summary>
