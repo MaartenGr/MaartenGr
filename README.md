@@ -12,7 +12,7 @@ intelligence to make the world a slightly better place. Typically, I like to
 work on projects involving machine learning, nlp or 
 any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects](https://github.com/MaartenGr/Projects) 
-or writing on [medium](http://medium.com/@maartengrootendorst) which typically reside on the intersection of AI and human behavior. 
+or writing articles on [medium](http://medium.com/@maartengrootendorst) which typically reside on the intersection of AI and human behavior. 
 
 <details>
 <summary>Projects</summary>
@@ -57,7 +57,7 @@ or writing on [medium](http://medium.com/@maartengrootendorst) which typically r
 
 ----
 
-#### Blogs posts
+#### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea?source=rss-22405c3b2875------2)
 - [Creating a class-based TF-IDF with Scikit-Learn](https://towardsdatascience.com/creating-a-class-based-tf-idf-with-scikit-learn-caea7b15b858?source=rss-22405c3b2875------2)
