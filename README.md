@@ -16,7 +16,7 @@ find me working on personal [projects](https://github.com/MaartenGr/Projects)
 or writing [blog posts](http://medium.com/@maartengrootendorst) which typically reside on the intersection of AI and human behavior. 
 
 <details>
-<summary>Data Science projects</summary>
+<summary>Projects</summary>
   
   <!---
   | Command | Description |
