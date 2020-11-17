@@ -66,7 +66,6 @@ or writing articles on [medium](http://medium.com/@maartengrootendorst) which ty
 <!-- BLOG-POST-LIST:END -->
 
 ----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maartengr" alt="maartengr" /> </p>
 
 
 <!--
