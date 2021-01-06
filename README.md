@@ -60,10 +60,10 @@ or writing articles on [medium](http://medium.com/@maartengrootendorst) which ty
 
 #### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8?source=rss-22405c3b2875------2)
 - [String Matching with BERT, TF-IDF, and more!](https://towardsdatascience.com/string-matching-with-bert-tf-idf-and-more-274bb3a95136?source=rss-22405c3b2875------2)
 - [Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea?source=rss-22405c3b2875------2)
 - [Creating a class-based TF-IDF with Scikit-Learn](https://towardsdatascience.com/creating-a-class-based-tf-idf-with-scikit-learn-caea7b15b858?source=rss-22405c3b2875------2)
-- [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6?source=rss-22405c3b2875------2)
 <!-- BLOG-POST-LIST:END -->
 
 
