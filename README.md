@@ -60,10 +60,10 @@ or writing articles on [medium](http://medium.com/@maartengrootendorst) which ty
 
 #### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Data Science Portfolio](https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49?source=rss-22405c3b2875------2)
 - [Why Jupyter Notebooks Aren’t All That Bad!](https://towardsdatascience.com/why-jupyter-notebooks-arent-all-that-bad-d75e90d02c3a?source=rss-22405c3b2875------2)
 - [The Truth about Working as a Data Scientist](https://towardsdatascience.com/the-truth-about-working-as-a-data-scientist-99ed40a600d2?source=rss-22405c3b2875------2)
 - [Misleading Graphs](https://towardsdatascience.com/misleading-graphs-e86c8df8c5de?source=rss-22405c3b2875------2)
-- [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa?source=rss-22405c3b2875------2)
 <!-- BLOG-POST-LIST:END -->
 
 
