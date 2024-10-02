@@ -9,23 +9,25 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(record=True, width=150)
+console = Console(record=True, width=100)
 
 tree = Tree("😄 [link=https://www.maartengrootendorst.com]Maarten Grootendorst", guide_style="bold cyan")
-packages_tree = tree.add("🐍 Packages")
+book_tree = tree.add("📖 Book Author")
+book_tree.add("[link=https://www.amazon.com/Hands-Large-Language-Models-Alammar-ebook/dp/B0DGZ46G88]Hands-On Large Language Models")
+packages_tree = tree.add("🧙‍♂️ Open Sourcerer")
 packages_tree.add("[link=https://github.com/MaartenGr/BERTopic]BERTopic")
 packages_tree.add("[link=https://github.com/MaartenGr/KeyBERT]KeyBERT")
 packages_tree.add("[link=https://github.com/MaartenGr/PolyFuzz]PolyFuzz")
-packages_tree.add("[link=https://github.com/MaartenGr/Concept]Concept")
-packages_tree.add("[link=https://github.com/MaartenGr/VLAC]VLAC")
-articles_tree = tree.add("📘 Popular Articles")
+articles_tree = tree.add("📘 Demystifying AI")
+articles_tree.add("[link=https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization]A Visual Guide to Quantization")
+articles_tree.add("[link=https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state]A Visual Guide to Mamba")
 articles_tree.add("[link=https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa?sk=5a95055c23e46aed2db69271b559b464]9 Distance Measures")
 articles_tree.add("[link=https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea?sk=97a99c2669bb16f22f2f362820ba6bef]Keyword Extraction with BERT")
 articles_tree.add("[link=https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6?sk=0b5a470c006d1842ad4c8a3057063a99]Topic Modeling with BERT")
-articles_tree.add("[link=https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb?sk=b947e67e56d7cea9f16b5d7046d48cce]Unit Testing for Data Scientists")
+
 
 about = """\
-A psychologist turned data scientist who is passionate about using artificial intelligence to make the world a slightly better place. I enjoy working on [link=https://pypi.org/user/MaartenGr/]open source projects[/] and writing AI-related articles on [link=http://medium.com/@maartengrootendorst]Medium[/].
+A psychologist turned data scientist who is passionate about using AI to make the world a slightly better place. I enjoy working on open source projects and writing (visual) AI-related articles on [link=https://newsletter.maartengrootendorst.com/]my newsletter[/].
 
 Follow me on [bold link=https://twitter.com/MaartenGr]Twitter[/] and [bold link=https://www.linkedin.com/in/mgrootendorst/]LinkedIn[/]. 
 
