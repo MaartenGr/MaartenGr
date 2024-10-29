@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(record=True, width=100)
+console = Console(record=True, width=120)
 
 tree = Tree("😄 [link=https://www.maartengrootendorst.com]Maarten Grootendorst", guide_style="bold cyan")
 book_tree = tree.add("📖 Book Author")
